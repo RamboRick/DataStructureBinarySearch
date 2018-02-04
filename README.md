@@ -1,0 +1,2 @@
+# DataStructureBinarySearch
+BinarySearch Exercise File. 
